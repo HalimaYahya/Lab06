@@ -1,9 +1,8 @@
 import java.util.ArrayList;
-public class testArray
+public class linkedList
 {
    public static void main(String [] args)
-   {
-blic class MinMax {  
+   { 
     class Node{  
         int number;  
         Node nextNu;  
@@ -72,6 +71,5 @@ blic class MinMax {
         lList.minNode();  
         lList.maxNode();  
     }  
-}  
    }
-}
+}   
